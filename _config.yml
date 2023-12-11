@@ -15,7 +15,7 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Hanwen Xing # the main title
+title: My Love # the main title
 
 tagline: Master Student in Computer Science at University of Southern California # it will display as the sub-title
 
@@ -35,7 +35,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Hanwen Xing
+  name: My Love
   email: hanwenxi@usc.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -74,7 +74,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/lib/avatar.jpg
+avatar: /assets/avatar.jpg
 
 
 # boolean type, the global switch for TOC in posts.
