@@ -32,11 +32,11 @@ nav_order: 1
 
 ## Academic
 
-- <a class="exp-link" href="https://www.stanford.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/stanford.svg' | relative_url }}" class="exp-icon exp-crest exp-nobg" alt="Stanford"></a> **Stanford University** <span class="exp-dash">—</span> Research Collaborator
-  <span class="exp-date">Jan 2026 – Present</span>
-
 - <a class="exp-link" href="https://www.nd.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/notredame.png' | relative_url }}" class="exp-icon exp-crest exp-nobg" alt="Notre Dame"></a> **University of Notre Dame** <span class="exp-dash">—</span> Research Collaborator
   <span class="exp-date">Feb 2026 – Present</span>
+
+- <a class="exp-link" href="https://www.stanford.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/stanford.svg' | relative_url }}" class="exp-icon exp-crest exp-nobg" alt="Stanford"></a> **Stanford University** <span class="exp-dash">—</span> Research Collaborator
+  <span class="exp-date">Jan 2026 – Present</span>
 
 - <a class="exp-link" href="https://www.tmc.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/tmc.svg' | relative_url }}" class="exp-icon exp-crest exp-round" alt="TMC"></a> **Texas Medical Center** <span class="exp-dash">—</span> Research Intern
   <span class="exp-date">May 2024 – Aug 2024</span>
