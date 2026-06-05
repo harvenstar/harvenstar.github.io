@@ -35,14 +35,17 @@ nav_order: 1
 - <a class="exp-link" href="https://www.stanford.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/stanford.svg' | relative_url }}" class="exp-icon exp-crest exp-nobg" alt="Stanford"></a> **Stanford University** <span class="exp-dash">—</span> Research Collaborator
   <span class="exp-date">Jan 2026 – Present</span>
 
+- <a class="exp-link" href="https://www.nd.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/notredame.png' | relative_url }}" class="exp-icon exp-crest exp-nobg" alt="Notre Dame"></a> **University of Notre Dame** <span class="exp-dash">—</span> Research Collaborator
+  <span class="exp-date">Feb 2026 – Present</span>
+
 - <a class="exp-link" href="https://www.tmc.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/tmc.svg' | relative_url }}" class="exp-icon exp-crest exp-round" alt="TMC"></a> **Texas Medical Center** <span class="exp-dash">—</span> Research Intern
   <span class="exp-date">May 2024 – Aug 2024</span>
 
+- <a class="exp-link" href="https://www.berkeley.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/berkeley.png' | relative_url }}" class="exp-icon exp-crest" alt="UC Berkeley"></a> **UC Berkeley** <span class="exp-dash">—</span> Research Assistant
+  <span class="exp-date">Aug 2022 – Dec 2022</span>
+
 - <a class="exp-link" href="https://www.yale.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/yale.svg' | relative_url }}" class="exp-icon exp-crest exp-round" alt="Yale"></a> **Yale University** <span class="exp-dash">—</span> Research Assistant
   <span class="exp-date">May 2022 – Aug 2022</span>
-
-- <a class="exp-link" href="https://www.columbia.edu" target="_blank" rel="noopener"><img src="{{ '/assets/img/columbia.svg' | relative_url }}" class="exp-icon exp-crest exp-round" alt="Columbia"></a> **Columbia University** <span class="exp-dash">—</span> Research Assistant
-  <span class="exp-date">Jan 2022 – May 2022</span>
 
 ## Education
 
