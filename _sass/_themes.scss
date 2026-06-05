@@ -433,6 +433,14 @@ img.exp-round {
   color: #6a6f7c;
 }
 
+/* Standalone italic research question in bio */
+.bio-question {
+  font-style: italic;
+  font-size: 1.15em;
+  margin: 0.6rem 0 0.6rem 1.2rem;
+  color: var(--global-theme-color);
+}
+
 /* Open Source heading: italic + muted, one size smaller than other h2 */
 h2.os-heading {
   font-style: italic;
@@ -506,7 +514,7 @@ nav.navbar > .container {
 a.navbar-brand.homepage-brand,
 nav.navbar a.navbar-brand.homepage-brand {
   font-family: var(--font-serif) !important;
-  font-size: 1.1rem !important;
+  font-size: 1.35rem !important;
   font-weight: 500 !important;
   color: #d4a574 !important;
   text-decoration: none !important;

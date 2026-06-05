@@ -26,13 +26,18 @@ latest_posts:
 
 ## About Me
 
-I am a Research Scientist working on large language models, with a focus on post-training, code agents, and efficient inference.
+I am Hanwen (Hudson) Xing, a Research Scientist with a focus on coding agents, post-training and evaluation.
 
-I'm drawn to a practical question: what makes a model actually *useful* once it leaves the benchmark? That pulls my work toward agentic coding, long-horizon planning, reinforcement learning for alignment, human–machine interaction, low-level kernels for efficient serving, and evaluation that reflects how agents behave in the real world rather than on paper.
+I've recently been drawn to a practical question:
+
+<p class="bio-question"><em>What makes an agent actually useful once it leaves the benchmark?</em></p>
+
+That pulls my work toward agentic coding, long-horizon planning, reinforcement learning for alignment, and benchmarks that reflect how agents behave in the real world rather than on paper. I'm also broadly interested in low-level kernels for efficient inference and serving, and in human–machine interaction (today's terminal-based interfaces feel like a clumsy way for humans and AI to work together — pursuing smarter ones 🤝).
 
 ## Service
 
-Reviewer: NeurIPS 2026, ICML 2026 (Gold Reviewer), ICLR 2026, CVPR 2026, CAIS 2026.
+Reviewer: NeurIPS 2026, ICML 2026 (Gold Reviewer),<br>
+ICLR 2026, CVPR 2026, CAIS 2026, ICML 2025.
 
 <!-- ============================================================
      Hidden visitor tracker — PLACEHOLDER
