@@ -9,12 +9,13 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
+{% comment %}
+Publications deferred — papers.bib has no real entries yet.
+Remove this comment wrapper to re-enable search + bibliography once it does:
 
 {% include bib_search.liquid %}
 
 <div class="publications">
-
 {% bibliography %}
-
 </div>
+{% endcomment %}

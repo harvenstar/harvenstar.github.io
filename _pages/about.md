@@ -26,13 +26,13 @@ latest_posts:
 
 ## About Me
 
-I am Hanwen (Hudson) Xing, a Research Scientist with a focus on coding agents, post-training and evaluation.
+I am Hanwen (Hudson) Xing, a Research Scientist focused on coding agents, post-training, and evaluation.
 
 I've recently been drawn to a practical question:
 
 <p class="bio-question"><em>What makes an agent actually useful once it leaves the benchmark?</em></p>
 
-That pulls my work toward agentic coding, long-horizon planning, reinforcement learning for alignment, and benchmarks that reflect how agents behave in the real world rather than on paper. I'm also broadly interested in low-level kernels for efficient inference and serving, and in human–machine interaction (today's terminal-based interfaces feel like a clumsy way to interact — pursuing smarter ones 🤝).
+That pulls my work toward agentic coding, long-horizon planning, reinforcement learning for alignment, and benchmarks that reflect how agents behave in the real world rather than on paper. I'm also broadly interested in low-level kernels for efficient inference and serving, and in human–machine interaction (today's terminal-based interfaces feel like a clumsy way to interact — pursuing smarter ones ✨).
 
 ## Service
 
