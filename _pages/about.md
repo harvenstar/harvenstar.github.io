@@ -36,8 +36,7 @@ That pulls my work toward agentic coding, long-horizon planning, reinforcement l
 
 ## Service
 
-Reviewer: NeurIPS 2026, ICML 2026 (Gold Reviewer),<br>
-ICLR 2026, CVPR 2026, CAIS 2026, ICML 2025.
+Reviewer: NeurIPS, ICML (Gold Reviewer), ICLR, CVPR, CAIS.
 
 <!-- ============================================================
      Hidden visitor tracker — PLACEHOLDER
