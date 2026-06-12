@@ -13,7 +13,7 @@ nav: false
      Data is collected offline/batched, so the map can sit on "Loading data…" until visits aggregate. -->
 
 <script type="text/javascript" id="mapmyvisitors"
-  src="https://mapmyvisitors.com/map.js?cl=648cd0&w=590&t=n&d=hQE6QsR92f147zMmJRKvxIZtYRT4dMBReLRB9Nr6zEQ&co=004576&cmo=536bff&cmn=dfa600">
+  src="https://mapmyvisitors.com/map.js?cl=03004d&w=a&t=n&d=XrbpMaLVmtosuKnH8VduALv10d4HUCmcfqp2J26iKJM&co=004271&cmo=80b0ff&cmn=fffb05">
 </script>
 
 <noscript>Visitor map loads with JavaScript enabled.</noscript>
